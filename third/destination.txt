@@ -1,0 +1,10 @@
+I need the big pile of ugly stuff from source.txt here:
+
+--------------------------------------- in between
+--------------------------------------- these two lines
+
+I also need the  big pile of ugly stuff from example.txt here:
+
+--------------------------------------- in between
+--------------------------------------- these two lines
+

@@ -1,0 +1,63 @@
+gg
+after deleting, go back to line 28
+
+this line needs another line below 
+Supercalifragilisticexpialidocious there is an unecessary word at the start of this sentence
+
+This sentence needs and exclamation point
+this line needs another line above it
+
+this line needs to be deleted
+
+so does this one
+and this one
+and this one
+and this one
+
+move "delete the underscore" line to below this one
+
+this line needs to go later (skip for now)
+
+	delete the underscore: 2138094j234912j384cj_18394891234jc123j49c123
+
+these two lines
+need to be indented to the right
+
+	put the line "this line needs to be deleted (skip for now)" below this one
+
+delete gg at the top
+
+(change hate to "love") I hate Vim 
+
+delete everything after here @213890jsadfklaklsdjf,123m,asdl;
+
+iojqwe023r1jcklsjaf,1j2kjro12r;' delete everything before here
+
+while (true)
+{ // we are going to jump down
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+	// meaningless garbage
+} // @change this comment to whatever you'd like
+
+type x10 below: "Vim ".
+
+
+delete this line, then undo the delete 
+
+go back in time 1 hour (WHAT????), then go forwards in time 1 hour
+
+save and quit all in 1 command
+
+[ 128394u182934u912u35124;o5i12lo45jdl15
+12359f123l5oc12j35k1n2l3j
+1235ojc81325c123j5cjkl3d21j;
+123j59d10235d90213094ljkret ]

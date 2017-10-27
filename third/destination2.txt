@@ -1,0 +1,2 @@
+--- Make an exact copy of destination.txt below --- 
+
