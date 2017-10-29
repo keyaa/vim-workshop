@@ -4,7 +4,7 @@ after deleting, go back to line 28
 this line needs another line below 
 Supercalifragilisticexpialidocious there is an unecessary word at the start of this sentence
 
-This sentence needs and exclamation point
+This sentence needs an exclamation point
 this line needs another line above it
 
 this line needs to be deleted
@@ -35,6 +35,7 @@ iojqwe023r1jcklsjaf,1j2kjro12r;' delete everything before here
 
 while (true)
 { // we are going to jump down
+
 	// meaningless garbage
 	// meaningless garbage
 	// meaningless garbage
@@ -44,14 +45,26 @@ while (true)
 	// meaningless garbage
 	// meaningless garbage
 	// meaningless garbage
+
+// "recenter this text"
+
 	// meaningless garbage
 	// meaningless garbage
+
 } // @change this comment to whatever you'd like
 
 type x10 below: "Vim ".
 
 
 delete this line, then undo the delete 
+
+add 5 to this number: 50
+subtract 20 from this number: 13
+
+if (thisVariableName)
+{
+	// change thisVariableName to "number"
+}
 
 go back in time 1 hour (WHAT????), then go forwards in time 1 hour
 
